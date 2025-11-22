@@ -94,7 +94,7 @@ const asqara = {
 
 ### 🎯 Currently Exploring
 <p>
-  <img src="https://skillicons.dev/icons?i=nginx&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=n8n&theme=dark" />
 </p>
 
 </div>
