@@ -74,17 +74,17 @@ const asqara = {
 
 ### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,materialui,redux,vite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,&theme=dark" />
 </p>
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,laravel,express,prisma,graphql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,laravel,prisma&theme=dark" />
 </p>
 
 ### 🗄️ Database & Storage
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,supabase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase&theme=dark" />
 </p>
 
 ### 🔧 DevOps & Tools
@@ -94,7 +94,7 @@ const asqara = {
 
 ### 🎯 Currently Exploring
 <p>
-  <img src="https://skillicons.dev/icons?i=kubernetes,nginx,aws,firebase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nginx&theme=dark" />
 </p>
 
 </div>
