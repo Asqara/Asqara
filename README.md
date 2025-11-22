@@ -211,23 +211,7 @@ QR Scanning → Validation → Entry Logging → Analytics
 
 <div align="center">
 
-### 🧮 UTBK Score Calculator
-<img src="https://img.shields.io/badge/Status-Stable-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/C++-17-00599C?style=for-the-badge&logo=cplusplus" />
 
-</div>
-
-**⚡ Mini CLI Tool:**
-- Fast and accurate UTBK score calculation
-- Support for all test categories
-- Clean terminal interface
-- Zero dependencies
-
-<p align="center">
-  <a href="https://github.com/Asqara/utbk-calculator"><img src="https://img.shields.io/badge/View%20Repository-4D8AFF?style=for-the-badge&logo=github" /></a>
-</p>
-
----
 
 ## 🏗️ Code Architecture Philosophy
 
