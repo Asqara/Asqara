@@ -1,451 +1,374 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=4D8AFF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Asqara+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Laravel;Building+Real+Campus+Systems;Crafting+Clean+%26+Modern+Code+%E2%9C%A8;Let's+Build+Something+Amazing!" alt="Typing SVG" />
-</p>
+````markdown
+<!--
+Hi 👋
+Thanks for checking the source of my profile README.
+Feel free to explore my projects below.
+-->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Asqara's%20Dev%20Space&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%" />
-</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Asqara&label=Profile%20Views&color=4D8AFF&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Asqara?label=Followers&style=for-the-badge&color=4D8AFF" alt="followers" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Collab-success?style=for-the-badge" alt="status" />
-</p>
+# Hi, I'm Alfath Asqar Tsani 👋
+
+### Software Engineer · Full-Stack Developer · DevOps Enthusiast
+
+Building scalable digital products, infrastructure, and data-driven systems.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alfath%20Asqar%20Tsani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asqaraa)
+[![Email](https://img.shields.io/badge/Email-Alfath.asqartsani%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Alfath.asqartsani@gmail.com)
+[![Location](https://img.shields.io/badge/Bogor-Indonesia-success?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+I'm a **Computer Science student at IPB University** who enjoys turning complex operational problems into scalable digital systems.
+
+My main interests are **Software Engineering, Full-Stack Development, System Architecture, DevOps, and Data Engineering**.
+
+I have experience building and operating production systems used at university scale — from student orientation platforms and ERP systems to e-commerce, ticketing, data management, and Kubernetes infrastructure.
 
 ```typescript
-const asqara = {
-  role: "Full-Stack Developer",
-  location: "Indonesia 🇮🇩",
-  education: "Computer Science Student",
-  
-  philosophy: "Build slow, build good. Yang penting rapi & dipakai.",
-  
-  currentFocus: [
-    "Next.js 15 App Router",
-    "Laravel 12 Modern Architecture", 
-    "Advanced MySQL Optimization",
-    "Node.js Automation & Bots",
-    "Cloud Deployment (Vercel, Railway)"
+const alfath = {
+  role: "Software Engineer",
+  university: "IPB University",
+  focus: [
+    "Full-Stack Development",
+    "System Architecture",
+    "DevOps",
+    "Data Engineering"
   ],
-  
-  obsessedWith: [
-    "Clean UI/UX Design",
-    "Scalable Architecture",
-    "Performance Optimization",
-    "Real-World Problem Solving"
+
+  currentlyBuilding: [
+    "MySOC ERP",
+    "StudentOrientation",
+    "University-scale digital infrastructure"
   ],
-  
-  learning: [
-    "CI/CD Pipelines",
-    "Complex Auth Flows",
-    "QR Systems & Scanning",
-    "Webhook Integration",
-    "Microservices Architecture"
-  ],
-  
-  funFacts: [
-    "☕ Coffee-driven development",
-    "🎧 Lofi & ambience playlist addict",
-    "🎨 UI perfectionist",
-    "🔧 Love refactoring messy code",
-    "🌙 Night owl coder"
-  ]
+
+  infrastructure: {
+    orchestration: "Kubernetes",
+    peakTraffic: "~1,000 RPS"
+  },
+
+  funFact: "I enjoy building systems that solve real operational problems."
 };
-```
-
-<br clear="right"/>
+````
 
 ---
 
-## 🛠️ Tech Stack & Tools
+# 🚀 What I've Built
 
-<div align="center">
+## 🧩 MySOC — Integrated ERP Ecosystem
 
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,php,cpp,python,html,css&theme=dark" />
-</p>
+> Internal operational system for **OMB IPB 63 × Agrisymphony 2026**
 
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,&theme=dark" />
-</p>
+Designed and developed an integrated ERP ecosystem connecting multiple operational workflows across committees, participants, administrators, and university stakeholders.
 
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,laravel,prisma&theme=dark" />
-</p>
+**Highlights**
 
-### 🗄️ Database & Storage
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase&theme=dark" />
-</p>
+* 🏗️ Designed a **microservices-based architecture**
+* 🔐 Implemented **Role-Based Access Control (RBAC)**
+* 🔄 Integrated multiple internal services and operational workflows
+* 🗄️ Centralized participant and organizational data
+* ⚙️ Managed deployment through **Docker & Kubernetes**
+* 📈 Built infrastructure capable of handling approximately **1,000 RPS**
 
-### 🔧 DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,npm,postman,vscode&theme=dark" />
-</p>
+**Tech Stack**
 
-### 🎯 Currently Exploring
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn&theme=dark" />
-</p>
-
-</div>
+`Next.js` `TypeScript` `Bun` `PostgreSQL` `Drizzle ORM` `Docker` `Kubernetes`
 
 ---
 
-## ✨ Featured Projects
+## 🎓 StudentOrientation — Digital Orientation Platform
 
-<div align="center">
+Part of the digital ecosystem developed for university-scale student orientation.
 
-### 🌐 Personal Portfolio Website
-<img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Stack-Next.js%2015-black?style=for-the-badge&logo=next.js" />
-<img src="https://img.shields.io/badge/Tailwind-CSS-06B6D4?style=for-the-badge&logo=tailwindcss" />
+The platform centralized multiple participant-facing services into a single digital experience.
 
-</div>
+### The Challenge
 
-<table align="center">
-<tr>
-<td width="50%">
+Student orientation involves thousands of students, multiple organizational units, different datasets, group structures, attendance systems, helpdesk operations, and constantly changing participant information.
 
-**✨ Features:**
-- 🎨 Modern, minimalist design
-- 🌓 Dark/Light mode toggle
-- ⚡ Lightning-fast performance
-- 🎭 Smooth animations (Framer Motion)
-- 📱 Fully responsive
-- 🎯 SEO optimized
+### What I Worked On
 
-</td>
-<td width="50%">
+* 🧹 Cleaned and normalized student datasets from multiple sources
+* 🗃️ Structured data for approximately **8,000 incoming students**
+* 🔗 Built centralized datasets reusable across multiple services
+* ✅ Supported **digital attendance**
+* 👥 Automated participant and group management
+* 🔐 Supported authentication and participant verification
+* 💬 Integrated helpdesk and student-facing services
+* 📊 Enabled operational teams to use consistent student data
 
-**🔧 Tech Stack:**
-- Next.js 15 (App Router)
-- TypeScript
-- Tailwind CSS
-- Framer Motion
-- Vercel deployment
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <a href="https://github.com/Asqara/personal-website"><img src="https://img.shields.io/badge/View%20Repository-4D8AFF?style=for-the-badge&logo=github" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Live%20Demo-Coming%20Soon-gray?style=for-the-badge&logo=vercel" /></a>
-</p>
+The platform also gained **organic attention on X** for its approach to digital student orientation, with similar ideas later appearing in implementations at other universities.
 
 ---
 
-<div align="center">
+## 🛍️ Agrisymphony Merchandise Store
 
-### 🎫 Campus Ticketing System
-<img src="https://img.shields.io/badge/Status-Production-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Laravel-12-FF2D20?style=for-the-badge&logo=laravel" />
-<img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql" />
+Developed and operated the official digital merchandise store supporting MPKMB and Agrisymphony activities.
 
-</div>
+### Impact
 
-<table align="center">
-<tr>
-<td width="50%">
+> 💰 **Rp600M+ cumulative transaction value**
 
-**🎯 Key Features:**
-- 🔐 Google OAuth integration
-- 🎟️ Unique QR code per ticket
-- 📱 Mobile-friendly QR scanner
-- 💬 WhatsApp Bot (Baileys)
-- 📧 Auto email notifications
-- 📊 Real-time analytics dashboard
-- 👨‍💼 Modern admin panel
-- 📄 PDF ticket generation
+The platform handled product management, ordering workflows, and large-scale digital transactions during the event period.
 
-</td>
-<td width="50%">
+**Focus Areas**
 
-**⚡ Tech Stack:**
-- Laravel 12 (Backend)
-- Blade + Tailwind (UI)
-- MySQL (Database)
-- Node.js + Baileys (Bot)
-- QR Code Generator
-- Chart.js (Analytics)
-- Mailtrap (Email testing)
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>📸 Screenshots & Architecture</b></summary>
-
-**System Flow:**
-```
-User Registration → QR Generation → Email/WA Notification 
-    ↓
-QR Scanning → Validation → Entry Logging → Analytics
-```
-
-**Database Design:**
-- Users (Google Auth)
-- Events (Multi-event support)
-- Tickets (Unique QR codes)
-- Scans (Entry tracking)
-- Analytics (Real-time stats)
-
-</details>
-
-<p align="center">
-  <a href="https://github.com/Asqara/ticketing-system"><img src="https://img.shields.io/badge/View%20Repository-4D8AFF?style=for-the-badge&logo=github" /></a>
-</p>
+`E-Commerce` `Transaction Flow` `Database` `Production Deployment` `Reliability`
 
 ---
 
-<div align="center">
+## 🎫 Agrisymphony Ticketing Platform
 
+Built the official ticketing platform for **Agrisymphony 2025**.
 
-
-## 🏗️ Code Architecture Philosophy
-
-<div align="center">
-
-> **"Architecture is more important than lines of code"**
-
-</div>
-
-```
-📦 My Project Structure Template
-├── 📁 app/
-│   ├── 📁 (routes)/          # Next.js App Router pages
-│   ├── 📁 api/               # API routes
-│   └── 📄 layout.tsx         # Root layout
-├── 📁 components/
-│   ├── 📁 ui/                # Reusable UI components
-│   ├── 📁 features/          # Feature-specific components
-│   └── 📁 layouts/           # Layout components
-├── 📁 lib/
-│   ├── 📁 hooks/             # Custom React hooks
-│   ├── 📁 utils/             # Helper functions
-│   └── 📁 validations/       # Zod schemas
-├── 📁 services/              # API service layer
-├── 📁 types/                 # TypeScript types
-├── 📁 config/                # App configuration
-└── 📁 public/                # Static assets
-```
-
-### 🎯 Core Principles
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-**🔹 Clean & Scalable**
-```
-Organized folder structure
-Clear separation of concerns
-Easy to navigate & maintain
-```
-
-</td>
-<td width="33%" align="center">
-
-**🔹 Reusable Code**
-```
-DRY principle
-Component composition
-Shared utilities
-```
-
-</td>
-<td width="33%" align="center">
-
-**🔹 Performance First**
-```
-Code splitting
-Lazy loading
-Optimized images
-```
-
-</td>
-</tr>
-</table>
+* 🎟️ Processed **1,000+ ticket sales**
+* 🔐 Developed secure purchasing workflows
+* ⚙️ Supported production deployment and maintenance
+* 📦 Managed transaction and ticketing operations
 
 ---
 
-## 📊 GitHub Statistics
+# ☁️ Infrastructure & DevOps
 
-<div align="center">
+One area I particularly enjoy is making applications survive beyond:
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Asqara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4D8AFF&icon_color=4D8AFF&text_color=FFFFFF&border_radius=10" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Asqara&theme=tokyonight&hide_border=true&background=0D1117&ring=4D8AFF&fire=4D8AFF&currStreakLabel=4D8AFF&border_radius=10" />
+> *"it works on localhost."*
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asqara&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4D8AFF&text_color=FFFFFF&border_radius=10&langs_count=8" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Asqara&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4D8AFF&text_color=FFFFFF&border_radius=10&layout=compact" />
+I work with containerized and orchestrated production environments using:
 
-</div>
-
-### 📈 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Asqara&theme=react-dark&hide_border=true&bg_color=0D1117&color=4D8AFF&line=4D8AFF&point=FFFFFF&area=true&area_color=4D8AFF" width="100%" />
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Asqara&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
-</p>
-
----
-
-## 🌈 Fun Section
-
-<div align="center">
-
-### 💭 Developer Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=Build%20slow,%20build%20good.%20Yang%20penting%20rapi%20%26%20dipakai." />
-
-### 🎧 Coding Vibes
-```
-🎵 Currently Listening To:
-├─ Lofi Hip Hop Radio 📻
-├─ Synthwave Ambience 🌃
-├─ Coffee Shop Jazz ☕
-└─ Nature Sounds 🌲
-```
-
-### 🎯 Current Mood
-```javascript
-const codingMood = () => {
-  const coffee = getCoffee();
-  const music = getLofi();
-  const code = getVSCode();
-  
-  return coffee + music + code === "Perfect Coding Session ✨";
-}
-```
-
-### 📅 Weekly Development Stats
-<!--START_SECTION:waka-->
 ```text
-TypeScript   12 hrs 30 mins  ████████████░░░░░  55.2%
-PHP          5 hrs 15 mins   ██████░░░░░░░░░░░  23.1%
-JavaScript   2 hrs 45 mins   ███░░░░░░░░░░░░░░  12.2%
-CSS          1 hr 30 mins    ██░░░░░░░░░░░░░░░   6.6%
-Other        40 mins         █░░░░░░░░░░░░░░░░   2.9%
+Application
+    │
+    ▼
+Docker Container
+    │
+    ▼
+Kubernetes
+    │
+    ├── Deployment
+    ├── Service
+    ├── Scaling
+    ├── Health Checks
+    └── Service Recovery
 ```
-<!--END_SECTION:waka-->
 
-</div>
+My current infrastructure work includes:
+
+* Kubernetes deployment & orchestration
+* Containerized application services
+* High-traffic infrastructure
+* Horizontal scalability
+* Service recovery
+* Production monitoring
+* Database operations
+* Incident response
+
+Peak production load handled:
+
+### ⚡ ~1,000 Requests / Second
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+# 🗄️ Data Engineering & Database Management
+
+Software engineering isn't only about writing endpoints.
+
+A significant part of my work involves transforming messy operational data into structured data that applications can actually use.
+
+For OMB IPB 63, I worked with datasets covering approximately:
+
+## 👨‍🎓 8,000 Students
+
+Data processing included:
+
+```text
+Raw Data
+   ↓
+Cleaning
+   ↓
+Validation
+   ↓
+Normalization
+   ↓
+Centralized Database
+   ↓
+Multiple Digital Services
+```
+
+The resulting data supports:
+
+* Digital attendance
+* Participant authentication
+* Student grouping
+* Helpdesk services
+* Operational dashboards
+* Internal administration
+* Student-facing applications
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+
+### Frontend
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=nextdotjs\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
+
+### Backend
+
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square\&logo=bun\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square\&logo=laravel\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
+
+### Database
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
+
+### DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square\&logo=kubernetes\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+
+### Tools & Automation
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square\&logo=figma\&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square\&logo=n8n\&logoColor=white)
+
+---
+
+# 🧑‍💼 Experience
+
+### 💻 Web Developer — Code Panda
+
+**Feb 2025 — Present**
+
+* Developing Learning Management System applications using **Laravel & Inertia.js**
+* Developing production applications using **Next.js**
+* Improved page-loading performance by approximately **60%**
+* Working across feature development, debugging, and maintenance
+
+### 🌾 Data Operations — BPP Bekri
+
+**May 2024 — Jul 2024**
+
+* Managed subsidized fertilizer data for approximately **200 farmers**
+* Integrated agricultural data into Indonesia's national **RDKK** system
+* Validated government assistance data covering approximately **50 households**
+
+---
+
+# 📊 Research & Leadership
+
+Technology isn't the only thing I work with.
+
+I also enjoy research, data analysis, and leading multidisciplinary teams.
+
+### Head of Research & Development
+
+**Ormawa Eksekutif PKU IPB**
+
+* Led research and digital transformation initiatives
+* Built centralized organizational information systems
+* Developed WhatsApp-based automated helpdesk services using **Baileys**
+
+### Nara Bersuara Research
+
+Conducted research on student political participation involving:
+
+## 📊 700+ Respondents
+
+Used **Python and spreadsheet-based analysis** to transform survey results into actionable organizational insights.
+
+---
+
+# 🏆 Certifications & Recognition
+
+### 🥇 BNSP Certified Web Developer
+
+Professional competency certification issued under Indonesia's
+**Badan Nasional Sertifikasi Profesi (BNSP)**.
+
+### 🎓 Yayasan Alumni Peduli IPB Scholarship
+
+Scholarship recipient for academic achievement and organizational contribution.
+
+### 📚 Academic
+
+**Computer Science — IPB University**
+
+GPA: **3.80 / 4.00**
+
+---
+
+# 📈 GitHub
+
+<!--
+Replace YOUR_USERNAME with your actual GitHub username.
+-->
 
 <div align="center">
 
-<p>
-  <a href="mailto:asqara@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/asqara"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/asqara"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://instagram.com/asqara"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://discord.gg/asqara"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-</p>
+<img height="165"
+src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github"
+alt="GitHub Stats"
+/>
 
-### 💼 Open for Collaboration
-
-**Interested in collaborating on:**
-- 🎯 Event management systems
-- 📊 Modern dashboards & analytics
-- 🎨 UI/UX projects
-- 🤖 Automation & bots
-- 🎓 Campus/education systems
-- 🚀 Startup projects
-
-**How to reach me:**
-1. 📧 Email me at: **asqara@example.com**
-2. 💬 Open an issue in any repo
-3. 🤝 Connect on LinkedIn
-4. 💭 Start a discussion
-
-<img src="https://img.shields.io/badge/Response%20Time-Within%2024h-success?style=for-the-badge" />
+<img height="165"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true"
+alt="Top Languages"
+/>
 
 </div>
 
 ---
 
-## 💖 Support My Work
+# 🌱 What I'm Currently Exploring
 
-<div align="center">
-
-If you like my projects and want to support my work:
-
-<p>
-  <a href="https://ko-fi.com/asqara"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
-  <a href="https://buymeacoffee.com/asqara"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
-  <a href="https://github.com/sponsors/Asqara"><img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" /></a>
-</p>
-
-**⭐ Star my repos** if you find them useful!
-
-</div>
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- 🚀 Building a Scalable Ticketing System with Laravel
-- ⚡ Next.js 15: App Router Best Practices
-- 🎨 Creating Smooth Animations with Framer Motion
-- 🔐 Implementing Secure Authentication Flows
-- 📊 Optimizing MySQL for Large Scale Applications
-<!-- BLOG-POST-LIST:END -->
+* Distributed systems
+* Scalable backend architecture
+* Kubernetes & cloud-native infrastructure
+* Database optimization
+* High-concurrency applications
+* Software architecture
+* Data engineering
+* AI-powered applications
 
 ---
 
 <div align="center">
 
-### 🎯 Profile Summary
+## Let's Build Something Meaningful.
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asqara&theme=tokyonight" width="100%" />
+I enjoy building technology that doesn't just **work**,
+but actually solves real problems at scale.
 
-### 📊 Detailed Stats
+**Open for collaboration, projects, internships, and software engineering opportunities.**
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Asqara&theme=tokyonight" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Asqara&theme=tokyonight" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Asqara&theme=tokyonight" width="32%" />
+[LinkedIn](https://www.linkedin.com/in/asqaraa) ·
+[Email](mailto:Alfath.asqartsani@gmail.com)
 
-</div>
+<br>
 
----
-
-<div align="center">
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asqara/Asqara/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Asqara/Asqara/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Asqara/Asqara/output/github-contribution-grid-snake.svg">
-</picture>
+<sub>Built with curiosity, coffee, and probably one more deployment.</sub>
 
 </div>
-
----
-
-<div align="center">
-
-**💙 Thanks for visiting my profile!**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%" />
-
-![](https://hit.yhype.me/github/profile?user_id=Asqara)
-
-**Last Updated:** `2025-11-22` | **Made with** ❤️ **and lots of** ☕
-
-</div>
+```
