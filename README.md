@@ -1,4 +1,3 @@
-````markdown
 <!--
 Hi 👋
 Thanks for checking the source of my profile README.
@@ -371,4 +370,3 @@ but actually solves real problems at scale.
 <sub>Built with curiosity, coffee, and probably one more deployment.</sub>
 
 </div>
-```
