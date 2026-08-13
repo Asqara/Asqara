@@ -2,201 +2,157 @@
 
 # Alfath Asqar Tsani
 
-**Software Engineering · Backend · Infrastructure**
+**Software Engineering · Platform Systems · Data Infrastructure**
 
-Computer Science @ IPB University  
-Building production systems for real-world operations.
+Computer Science at IPB University  
+Bogor, Indonesia
 
-[LinkedIn](https://www.linkedin.com/in/asqaraa)
-&nbsp;·&nbsp;
-[Email](mailto:Alfath.asqartsani@gmail.com)
-
-<br>
-
-<img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white">
-<img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=3178C6">
-<img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=4169E1">
-<img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=2496ED">
-<img src="https://img.shields.io/badge/Kubernetes-111111?style=flat-square&logo=kubernetes&logoColor=326CE5">
+<a href="https://www.linkedin.com/in/asqaraa">LinkedIn</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="mailto:Alfath.asqartsani@gmail.com">Email</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="#selected-systems">Selected Work</a>
 
 </div>
-
----
-
-### Currently
-
-I work mainly on **web platforms, backend systems, databases, and production infrastructure**.
-
-Most of my recent work revolves around building digital systems for university-scale operations — from internal ERP and student services to transaction platforms and Kubernetes infrastructure.
 
 <br>
 
 <table>
 <tr>
 <td align="center" width="33%">
-<strong>~8,000</strong><br>
+<h3>~8,000</h3>
 <sub>student records managed</sub>
 </td>
 <td align="center" width="33%">
-<strong>~1,000 RPS</strong><br>
-<sub>peak infrastructure load</sub>
+<h3>~1,000 RPS</h3>
+<sub>peak production load</sub>
 </td>
 <td align="center" width="33%">
-<strong>Rp600M+</strong><br>
+<h3>Rp600M+</h3>
 <sub>transaction value handled</sub>
 </td>
 </tr>
 </table>
 
----
-
-## Selected systems
-
-### MySOC
-
-**Internal ERP · OMB IPB 63 × Agrisymphony**
-
-An integrated operational platform used to connect committee workflows, participant management, administration, and internal university services.
-
-`Next.js` `Bun` `PostgreSQL` `Docker` `Kubernetes`
-
-- Designed a microservices-oriented system architecture
-- Built role-based access for multiple user groups
-- Connected operational workflows across different services
-- Managed application deployment and production infrastructure
-
 <br>
 
-### StudentOrientation
+## About
 
-**Student-facing digital platform · IPB University**
+I'm a Computer Science student at **IPB University** working across
+full-stack development, backend systems, data infrastructure, and production operations.
 
-Built as part of the information system ecosystem for university orientation.
+Most of my recent work involves building systems that support real operational
+workflows at university scale — from internal ERP and participant platforms to
+data pipelines, commerce systems, ticketing, automation, and Kubernetes infrastructure.
 
-The platform consolidates student information and operational services used throughout the orientation process.
-
-`Next.js` `PostgreSQL` `Data Processing` `System Integration`
-
-- Processed and normalized data for approximately **8,000 students**
-- Structured reusable student data across multiple services
-- Supported digital attendance and participant verification
-- Integrated grouping, authentication, helpdesk, and operational workflows
-
-The platform also received organic attention on X for its implementation of a centralized digital orientation experience.
-
-<br>
-
-### Agrisymphony Store
-
-**Commerce & transaction system**
-
-Digital merchandise platform used across MPKMB and Agrisymphony operations.
-
-`Web Development` `Database` `Transaction Flow` `Production`
-
-Processed more than **Rp600 million in cumulative transaction value** through its ordering and transaction workflows.
-
-<br>
-
-### Agrisymphony Ticketing
-
-**Event ticketing platform**
-
-Developed the official ticketing system for Agrisymphony 2025.
-
-`Web Development` `Transaction System` `Deployment`
-
-Processed more than **1,000 ticket sales** during the event period.
+I currently work mostly with **TypeScript, Next.js, Bun, PostgreSQL, Docker,
+and Kubernetes**, while also maintaining experience with Laravel, Python,
+automation, and data analysis.
 
 ---
 
-## Infrastructure
-
-My work increasingly involves the layer between application development and production operations.
-
-```text
-Client
-  │
-  ▼
-Web Application
-  │
-  ▼
-Application Services
-  │
-  ▼
-PostgreSQL
-  │
-  ▼
-Docker
-  │
-  ▼
-Kubernetes
-````
-
-Current areas of work include:
-
-* containerized deployments
-* Kubernetes orchestration
-* service scaling
-* production monitoring
-* database operations
-* service recovery
-* high-traffic systems
-* incident handling
-
-Production infrastructure has handled peak traffic of approximately **1,000 requests per second**.
-
----
-
-## Stack
+## Selected Systems
 
 <table>
 <tr>
-<td valign="top" width="25%">
+<td width="50%" valign="top">
 
-**Languages**
+### MySOC
 
-TypeScript
-JavaScript
-Python
-PHP
-C++
-Java
+**Integrated ERP · OMB IPB 63 × Agrisymphony 2026**
 
-</td>
-<td valign="top" width="25%">
+Internal operational platform connecting committee workflows, participant
+management, administration, and institutional stakeholders.
 
-**Application**
+**What I worked on**
 
-Next.js
-React
-Laravel
-Bun
-Inertia.js
-Tailwind CSS
+- Microservices-oriented architecture
+- Role-Based Access Control
+- Cross-service data integration
+- Internal operational workflows
+- Deployment and service operations
+- Kubernetes-based infrastructure
 
-</td>
-<td valign="top" width="25%">
+**Core stack**
 
-**Data**
-
-PostgreSQL
-MySQL
-MongoDB
-Drizzle ORM
-SQL
+`Next.js` `Bun` `PostgreSQL` `Drizzle ORM`  
+`Docker` `Kubernetes` `Redis`
 
 </td>
-<td valign="top" width="25%">
 
-**Infrastructure**
+<td width="50%" valign="top">
 
-Kubernetes
-Docker
-Linux
-Git
-GitHub
-n8n
+### StudentOrientation
+
+**Student Platform · IPB University**
+
+Central student-facing system supporting university orientation and related
+digital services.
+
+**What I worked on**
+
+- Student data cleaning and normalization
+- Data management for ~8,000 students
+- Digital attendance infrastructure
+- Participant grouping and authentication
+- Helpdesk and information services
+- Integration with internal systems
+
+The platform received organic attention on X for its digital orientation
+implementation and became a reference for similar initiatives elsewhere.
+
+**Core stack**
+
+`Next.js` `PostgreSQL` `React Query`  
+`next-intl` `Tailwind CSS`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Agrisymphony Store
+
+**Commerce Platform**
+
+Digital merchandise platform built to manage products, orders, and transaction
+workflows for MPKMB and Agrisymphony.
+
+**Scale**
+
+**Rp600M+ cumulative transaction value**
+
+The system supported real production transactions and the operational process
+behind merchandise distribution.
+
+**Focus**
+
+`Commerce` `Transactions` `Database`  
+`Order Management` `Production`
+
+</td>
+
+<td width="50%" valign="top">
+
+### Agrisymphony
+
+**Public Website & Ticketing**
+
+Developed digital services supporting Agrisymphony, including the official
+website and event ticketing system.
+
+**Scale**
+
+**1,000+ ticket sales processed**
+
+Worked on application development, transaction workflows, deployment, and
+production maintenance.
+
+**Focus**
+
+`Web Development` `Ticketing`  
+`Transactions` `Production`
 
 </td>
 </tr>
@@ -204,55 +160,364 @@ n8n
 
 ---
 
+## Platform Engineering
+
+A large part of my recent work sits beyond the application layer.
+
+I work on the infrastructure needed to keep multiple interconnected services
+available during real production usage.
+
+```text
+                            ┌────────────────────┐
+                            │      Clients       │
+                            └─────────┬──────────┘
+                                      │
+                                      ▼
+                            ┌────────────────────┐
+                            │   Web Applications │
+                            └─────────┬──────────┘
+                                      │
+                    ┌─────────────────┴─────────────────┐
+                    │                                   │
+                    ▼                                   ▼
+          ┌──────────────────┐                ┌──────────────────┐
+          │ Application APIs │                │ Internal Services│
+          └────────┬─────────┘                └────────┬─────────┘
+                   │                                   │
+                   └─────────────────┬─────────────────┘
+                                     ▼
+                           ┌────────────────────┐
+                           │ PostgreSQL / Redis │
+                           └─────────┬──────────┘
+                                     │
+                                     ▼
+                           ┌────────────────────┐
+                           │ Docker / Kubernetes│
+                           └────────────────────┘
+````
+
+Areas I have worked on include:
+
+* containerized application deployment
+* Kubernetes / k3s orchestration
+* horizontal service scaling
+* high-traffic application handling
+* application and service recovery
+* database operations
+* production maintenance
+* system integration
+* authentication and authorization
+* incident handling
+
+Production infrastructure has handled peak traffic of approximately
+**1,000 requests per second**.
+
+---
+
+## Data Infrastructure
+
+Some of the systems I build depend on data coming from different sources,
+formats, and operational units.
+
+For OMB IPB 63, I worked on preparing and structuring data for approximately
+**8,000 incoming students**.
+
+```text
+Raw Sources
+     │
+     ▼
+Data Cleaning
+     │
+     ▼
+Validation
+     │
+     ▼
+Normalization
+     │
+     ▼
+Centralized Student Data
+     │
+     ├── Digital Attendance
+     ├── Participant Grouping
+     ├── Authentication
+     ├── Helpdesk
+     ├── Student Services
+     └── Internal Operations
+```
+
+The goal was not simply storing data, but making the same structured data
+reusable and consistent across different operational systems.
+
+---
+
+## Engineering Stack
+
+<table>
+<tr>
+<td width="25%" valign="top">
+
+**Languages**
+
+`TypeScript`
+`JavaScript`
+`Python`
+`PHP`
+`C++`
+`Java`
+
+</td>
+
+<td width="25%" valign="top">
+
+**Application**
+
+`Next.js`
+`React`
+`Laravel`
+`Inertia.js`
+`Bun`
+`Tailwind CSS`
+`Framer Motion`
+
+</td>
+
+<td width="25%" valign="top">
+
+**Data**
+
+`PostgreSQL`
+`Redis`
+`MySQL`
+`MongoDB`
+`Drizzle ORM`
+`SQL`
+
+</td>
+
+<td width="25%" valign="top">
+
+**Infrastructure**
+
+`Kubernetes`
+`k3s`
+`Docker`
+`Linux`
+`Git`
+`GitHub`
+
+</td>
+</tr>
+
+<tr>
+<td width="25%" valign="top">
+
+**Frontend Tooling**
+
+`React Query`
+`next-intl`
+`pnpm`
+
+</td>
+
+<td width="25%" valign="top">
+
+**Automation**
+
+`n8n`
+`Playwright`
+`Baileys`
+
+</td>
+
+<td width="25%" valign="top">
+
+**Data & Analysis**
+
+`Python`
+`SQL`
+`Spreadsheet`
+
+</td>
+
+<td width="25%" valign="top">
+
+**Product**
+
+`Figma`
+`REST API`
+`RBAC`
+`Microservices`
+
+</td>
+</tr>
+</table>
+
+---
+
+## Other Engineering Work
+
+### Code Panda
+
+**Web Developer · 2025 — Present**
+
+Working on production web applications across Laravel, Inertia.js, and Next.js.
+
+* Developed a Learning Management System for MBKM-related workflows
+* Worked across development, debugging, and maintenance
+* Optimized a Next.js application and improved page-load performance by ~60%
+
+<br>
+
+### WhatsApp Automation
+
+Built WhatsApp-based systems using **Baileys** for student services and
+operational automation.
+
+Work includes:
+
+* automated student helpdesk
+* broadcast workflows
+* batch message processing
+* session handling
+* internal service automation
+
+<br>
+
+### Moodle Automation
+
+Worked with **Playwright** to automate browser-based operational workflows,
+including participant management and repetitive administrative processes.
+
+<br>
+
+### Research Data
+
+Worked on quantitative research involving **700+ respondents**, using
+Python and spreadsheets to process survey results and translate them into
+organizational insights.
+
+---
+
 ## Experience
 
-**Web Developer — Code Panda**
-`2025 — Present`
+<table>
+<tr>
+<td width="23%"><strong>2025 — Present</strong></td>
+<td>
+<strong>Web Developer</strong><br>
+Code Panda
+</td>
+</tr>
 
-Developing production web applications using Laravel, Inertia.js, and Next.js, including application development, debugging, maintenance, and performance optimization.
+<tr>
+<td><strong>2025 — Present</strong></td>
+<td>
+<strong>Information Systems Coordinator</strong><br>
+OMB IPB 63 × Agrisymphony 2026
+</td>
+</tr>
 
-<br>
+<tr>
+<td><strong>2025</strong></td>
+<td>
+<strong>Web Developer</strong><br>
+Agrisymphony
+</td>
+</tr>
 
-**Information Systems Coordinator — OMB IPB 63 × Agrisymphony 2026**
-`2025 — Present`
+<tr>
+<td><strong>2025</strong></td>
+<td>
+<strong>Head of Research & Development</strong><br>
+Ormawa Eksekutif PKU IPB
+</td>
+</tr>
 
-Leading the architecture, development, data management, and production operation of interconnected digital services supporting university-scale orientation activities.
-
-<br>
-
-**Head of Research & Development — Ormawa Eksekutif PKU IPB**
-`2025`
-
-Led research and digital transformation initiatives, including internal information systems and automated student-support services.
+<tr>
+<td><strong>2024</strong></td>
+<td>
+<strong>Data Operations</strong><br>
+Balai Penyuluhan Pertanian Bekri
+</td>
+</tr>
+</table>
 
 ---
 
-## Certification
+## Education & Certification
 
-**BNSP — Web Developer Competency Certification**
+<table>
+<tr>
+<td width="65%" valign="top">
 
-Badan Nasional Sertifikasi Profesi, Indonesia
+### IPB University
+
+**B.Sc. Computer Science**
+
+GPA **3.80 / 4.00**
+Expected graduation: 2028
+
+Recipient of the **Yayasan Alumni Peduli IPB Scholarship**.
+
+</td>
+
+<td width="35%" valign="top">
+
+### BNSP
+
+**Web Developer Competency Certification**
+
+Badan Nasional Sertifikasi Profesi
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Background
+## Outside the Main Stack
 
-Computer Science student at **IPB University** with a current GPA of **3.80 / 4.00**.
+I have also worked on projects involving:
 
-My interests are currently centered around:
+* AI / LLM-assisted applications
+* WhatsApp service automation
+* research and quantitative data analysis
+* agricultural government data systems
+* internal organizational digitalization
+* event operations and transaction systems
 
-`Backend Engineering` · `System Architecture` · `Distributed Systems` · `Databases` · `DevOps`
+These projects gave me experience working not only with code, but also with
+messy requirements, real users, operational constraints, and systems that
+need to remain usable after deployment.
+
+---
+
+## GitHub
+
+<!-- Replace YOUR_USERNAME with your actual GitHub username -->
+
+<p align="center">
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true"
+    alt="GitHub statistics"
+  />
+  <img
+    width="37%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&hide_title=true"
+    alt="Most used languages"
+  />
+</p>
 
 ---
 
 <div align="center">
 
-### Build systems that survive production.
+### Alfath Asqar Tsani
 
-<sub>
-Bogor, Indonesia ·
-<a href="mailto:Alfath.asqartsani@gmail.com">Email</a> ·
-<a href="https://www.linkedin.com/in/asqaraa">LinkedIn</a>
-</sub>
+Software Engineering · Backend Systems · Infrastructure
+
+<a href="mailto:Alfath.asqartsani@gmail.com">Email</a>
+  ·   <a href="https://www.linkedin.com/in/asqaraa">LinkedIn</a>
 
 </div>
