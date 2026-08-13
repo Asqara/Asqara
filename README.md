@@ -50,6 +50,40 @@ and Kubernetes**, while also maintaining experience with Laravel, Python,
 automation, and data analysis.
 
 ---
+## Tech Stack
+
+### Core Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,php,cpp,java,nextjs,react,tailwind,laravel,bun,postgres,mysql,mongodb,redis,docker,kubernetes,linux,git,github,figma" />
+</p>
+
+### Libraries, Tools, and Other Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/Drizzle_ORM-111111?style=flat-square&logo=data&logoColor=white" />
+  <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/next--intl-111111?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Baileys-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-111111?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/RBAC-444444?style=flat-square&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-0F172A?style=flat-square&logo=openapiinitiative&logoColor=white" />
+</p>
+
+### What I Usually Work On
+
+* Full-stack web development
+* Backend systems and service integration
+* Database design and data normalization
+* Production deployment with Docker and Kubernetes
+* Automation with Playwright, n8n, and Baileys
+* Internal platforms, ERP, student systems, commerce, and ticketing
+
 
 ## Selected Systems
 
