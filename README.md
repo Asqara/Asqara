@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 # Alfath Asqar Tsani
@@ -673,4 +672,3 @@ Badan Nasional Sertifikasi Profesi
 <sub>Bogor, Indonesia</sub>
 
 </div>
-```
