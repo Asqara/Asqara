@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="176" viewBox="0 0 1200 176" role="img" aria-labelledby="title"><title id="title">Work in numbers: approximately 8,000 student records prepared and normalized; approximately 1,000 requests per second at peak on production infrastructure; more than 600 million rupiah in cumulative store transaction value.</title><rect width="1200" height="176" fill="#F0F2E9"/>
+<text x="32" y="70" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="700" letter-spacing="-1.5" fill="#294F3B">~8,000</text>
+<text x="32" y="109" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#182B23">Student records</text>
+<text x="32" y="140" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#536A5C">Prepared &amp; normalized</text>
+<path d="M400 28V148" stroke="#B2C0AE"/>
+<text x="432" y="70" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="700" letter-spacing="-1.5" fill="#294F3B">~1,000 RPS</text>
+<text x="432" y="109" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#182B23">Production infrastructure</text>
+<text x="432" y="140" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#536A5C">Approximate peak load</text>
+<path d="M800 28V148" stroke="#B2C0AE"/>
+<text x="832" y="70" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="700" letter-spacing="-1.5" fill="#294F3B">Rp600M+</text>
+<text x="832" y="109" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#182B23">Store transactions</text>
+<text x="832" y="140" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#536A5C">Cumulative value handled</text>
+</svg>

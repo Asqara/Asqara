@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="690" viewBox="0 0 640 690" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Alfath Asqar Tsani — Software engineering, platform systems and data infrastructure</title>
+<desc id="desc">An editorial nameplate with four illustrated layers representing applications, services, data, and infrastructure. Computer Science at IPB University. Bogor, Indonesia.</desc>
+<rect width="640" height="690" fill="#131C19"/>
+<path d="M0 1H640" stroke="#D3EA97" stroke-width="3"/>
+<text x="36" y="46" fill="#EEF1E7" font-family="Courier New, monospace" font-size="13" font-weight="700" letter-spacing="2">ASQARA</text>
+<text x="604" y="46" fill="#EEF1E7" font-family="Courier New, monospace" font-size="12" font-weight="400" letter-spacing="0"></text>
+<text x="365" y="46" fill="#A8B7AE" font-family="Courier New, monospace" font-size="12" font-weight="400" letter-spacing="0.5">ENGINEERING PROFILE</text>
+<path d="M36 66H604" stroke="#3A4A42"/>
+<text x="34" y="142" fill="#EEF1E7" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700" letter-spacing="-2.4">Alfath</text>
+<text x="34" y="207" fill="#EEF1E7" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700" letter-spacing="-2.4">Asqar Tsani.</text>
+<text x="37" y="254" fill="#A8B7AE" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="400" letter-spacing="0">Software engineering.</text>
+<text x="37" y="291" fill="#A8B7AE" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="400" letter-spacing="0">Platform systems. Data infrastructure.</text>
+<g transform="translate(151 335) scale(0.92)">
+<g transform="translate(0 132)">
+<path d="M0 42L185 0L320 65L135 107Z" fill="#1B2822" stroke="#3A4A42" stroke-width="1.2"/>
+<path d="M0 42V52L135 117L320 75V65M135 107V117" stroke="#3A4A42" stroke-width="1.2"/>
+<text transform="matrix(1 .482 0 1 15 65)" fill="#A8B7AE" font-family="Courier New, monospace" font-size="9" letter-spacing=".5">04 / INFRASTRUCTURE</text>
+<path d="M302 69l8 -2" stroke="#D3EA97" stroke-width="2.5"/>
+</g>
+<g transform="translate(0 88)">
+<path d="M0 42L185 0L320 65L135 107Z" fill="#1B2822" stroke="#3A4A42" stroke-width="1.2"/>
+<path d="M0 42V52L135 117L320 75V65M135 107V117" stroke="#3A4A42" stroke-width="1.2"/>
+<text transform="matrix(1 .482 0 1 15 65)" fill="#A8B7AE" font-family="Courier New, monospace" font-size="9" letter-spacing=".5">03 / DATA</text>
+<path d="M302 69l8 -2" stroke="#D3EA97" stroke-width="2.5"/>
+</g>
+<g transform="translate(0 44)">
+<path d="M0 42L185 0L320 65L135 107Z" fill="#1B2822" stroke="#3A4A42" stroke-width="1.2"/>
+<path d="M0 42V52L135 117L320 75V65M135 107V117" stroke="#3A4A42" stroke-width="1.2"/>
+<text transform="matrix(1 .482 0 1 15 65)" fill="#A8B7AE" font-family="Courier New, monospace" font-size="9" letter-spacing=".5">02 / SERVICES</text>
+<path d="M302 69l8 -2" stroke="#D3EA97" stroke-width="2.5"/>
+</g>
+<g transform="translate(0 0)">
+<path d="M0 42L185 0L320 65L135 107Z" fill="#1B2822" stroke="#3A4A42" stroke-width="1.2"/>
+<path d="M0 42V52L135 117L320 75V65M135 107V117" stroke="#3A4A42" stroke-width="1.2"/>
+<path d="M37.0 33.6l135 65" stroke="#3A4A42" stroke-width=".65" opacity=".65"/>
+<path d="M74.0 25.2l135 65" stroke="#3A4A42" stroke-width=".65" opacity=".65"/>
+<path d="M111.0 16.8l135 65" stroke="#3A4A42" stroke-width=".65" opacity=".65"/>
+<path d="M148.0 8.399999999999999l135 65" stroke="#3A4A42" stroke-width=".65" opacity=".65"/>
+<path d="M33.75 58.25l185 -42" stroke="#3A4A42" stroke-width=".65" opacity=".65"/>
+<path d="M67.5 74.5l185 -42" stroke="#3A4A42" stroke-width=".65" opacity=".65"/>
+<path d="M101.25 90.75l185 -42" stroke="#3A4A42" stroke-width=".65" opacity=".65"/>
+<path d="M87 48L157 32L211 58L141 74Z" fill="#D3EA97"/>
+<path d="M121 49l16 -4l29 14l16 -4" stroke="#131C19" stroke-width="2.4"/>
+<text transform="matrix(1 .482 0 1 15 65)" fill="#A8B7AE" font-family="Courier New, monospace" font-size="9" letter-spacing=".5">01 / APPLICATIONS</text>
+<path d="M302 69l8 -2" stroke="#D3EA97" stroke-width="2.5"/>
+</g>
+</g>
+<path d="M36 620H604" stroke="#3A4A42"/>
+<text x="36" y="653" fill="#A8B7AE" font-family="Courier New, monospace" font-size="14" font-weight="400" letter-spacing="0">COMPUTER SCIENCE / IPB UNIVERSITY</text>
+<text x="36" y="676" fill="#A8B7AE" font-family="Courier New, monospace" font-size="12" font-weight="400" letter-spacing="1">BOGOR, INDONESIA</text>
+</svg>
