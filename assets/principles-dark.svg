@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220" role="img" aria-label="Engineering principles">
+<title>Engineering principles</title>
+<style>
+.m{font-family:'Geist Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace}.s{font-family:Geist, -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, 'Helvetica Neue', Arial, sans-serif}
+.t{fill:#f2f1ec}.mu{fill:#a8a8a2}.v{fill:#9875ff}.a{fill:#d7ff3f}.ol{fill:#101010}
+.fb{transform-box:fill-box;transform-origin:center}
+.r{animation:rise .9s cubic-bezier(.16,1,.3,1) both}
+.f{animation:fade 1.2s ease both}
+.blink{animation:blink 1.05s steps(1) infinite}
+.pulse{transform-box:fill-box;transform-origin:center;animation:pulse 2.2s ease-out infinite}
+.spin{transform-box:fill-box;transform-origin:center;animation:spin 14s linear infinite}
+.flow{stroke-dasharray:3 7;animation:flow .9s linear infinite}
+.draw{stroke-dasharray:1;animation:draw 1.6s cubic-bezier(.16,1,.3,1) both}
+.grow{transform-box:fill-box;transform-origin:left center;animation:grow 1.6s cubic-bezier(.16,1,.3,1) both}
+@keyframes rise{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+@keyframes blink{50%{opacity:0}}
+@keyframes pulse{0%{transform:scale(1);opacity:.9}100%{transform:scale(3.2);opacity:0}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes flow{to{stroke-dashoffset:-20}}
+@keyframes draw{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}
+@keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+
+.hop{animation:hop 7.5s steps(1) infinite}
+@keyframes hop{0%{transform:translateX(0)}20%{transform:translateX(200px)}40%{transform:translateX(400px)}60%{transform:translateX(600px)}80%{transform:translateX(800px)}}
+.hl{animation:hl 7.5s steps(1) infinite;opacity:0}
+@keyframes hl{0%,20%{opacity:1}20.01%,100%{opacity:0}}
+
+</style>
+<rect width="1000" height="220" fill="#0c0d0f"/>
+<rect x=".5" y=".5" width="999" height="219" fill="none" stroke="#292b30"/>
+<g class="hop"><rect x="0" y="0" width="200" height="220" fill="#9875ff" fill-opacity=".08"/><rect x="0" y="0" width="200" height="4" fill="#d7ff3f"/></g>
+<g class="r" style="animation-delay:0.00s"><text x="20" y="40" class="m v" font-size="12" letter-spacing="2">0 1</text><text x="20" y="78" class="m t" font-size="12" font-weight="700" letter-spacing="1.2">SYSTEMS THINKING</text><text x="20" y="114" class="s mu" font-size="16"><tspan x="20" dy="0">Architecture before</tspan><tspan x="20" dy="22">complexity.</tspan></text></g>
+<g class="spin" fill="#d7ff3f" style="animation-delay:0.00s"><rect x="172.7" y="29.0" width="2.5" height="14.0" rx="1.3" transform="rotate(0 174 36)"/><rect x="172.7" y="29.0" width="2.5" height="14.0" rx="1.3" transform="rotate(45 174 36)"/><rect x="172.7" y="29.0" width="2.5" height="14.0" rx="1.3" transform="rotate(90 174 36)"/><rect x="172.7" y="29.0" width="2.5" height="14.0" rx="1.3" transform="rotate(135 174 36)"/></g>
+<line x1="200" y1="0" x2="200" y2="220" stroke="#292b30"/>
+<g class="r" style="animation-delay:0.12s"><text x="220" y="40" class="m v" font-size="12" letter-spacing="2">0 2</text><text x="220" y="78" class="m t" font-size="12" font-weight="700" letter-spacing="1.2">REAL USERS</text><text x="220" y="114" class="s mu" font-size="16"><tspan x="220" dy="0">Built from real</tspan><tspan x="220" dy="22">operational</tspan><tspan x="220" dy="22">problems.</tspan></text></g>
+<g class="spin" fill="#d7ff3f" style="animation-delay:0.50s"><rect x="372.7" y="29.0" width="2.5" height="14.0" rx="1.3" transform="rotate(0 374 36)"/><rect x="372.7" y="29.0" width="2.5" height="14.0" rx="1.3" transform="rotate(45 374 36)"/><rect x="372.7" y="29.0" width="2.5" height="14.0" rx="1.3" transform="rotate(90 374 36)"/><rect x="372.7" y="29.0" width="2.5" height="14.0" rx="1.3" transform="rotate(135 374 36)"/></g>
+<line x1="400" y1="0" x2="400" y2="220" stroke="#292b30"/>
+<g class="r" style="animation-delay:0.24s"><text x="420" y="40" class="m v" font-size="12" letter-spacing="2">0 3</text><text x="420" y="78" class="m t" font-size="12" font-weight="700" letter-spacing="1.2">DATA FIRST</text><text x="420" y="114" class="s mu" font-size="16"><tspan x="420" dy="0">Reliable systems</tspan><tspan x="420" dy="22">need structured</tspan><tspan x="420" dy="22">data.</tspan></text></g>
+<g class="spin" fill="#d7ff3f" style="animation-delay:1.00s"><rect x="572.7" y="29.0" width="2.5" height="14.0" rx="1.3" transform="rotate(0 574 36)"/><rect x="572.7" y="29.0" width="2.5" height="14.0" rx="1.3" transform="rotate(45 574 36)"/><rect x="572.7" y="29.0" width="2.5" height="14.0" rx="1.3" transform="rotate(90 574 36)"/><rect x="572.7" y="29.0" width="2.5" height="14.0" rx="1.3" transform="rotate(135 574 36)"/></g>
+<line x1="600" y1="0" x2="600" y2="220" stroke="#292b30"/>
+<g class="r" style="animation-delay:0.36s"><text x="620" y="40" class="m v" font-size="12" letter-spacing="2">0 4</text><text x="620" y="78" class="m t" font-size="12" font-weight="700" letter-spacing="1.2">PRODUCTION MATTERS</text><text x="620" y="114" class="s mu" font-size="16"><tspan x="620" dy="0">Software isn't done</tspan><tspan x="620" dy="22">until it survives</tspan><tspan x="620" dy="22">production.</tspan></text></g>
+<g class="spin" fill="#d7ff3f" style="animation-delay:1.50s"><rect x="772.7" y="29.0" width="2.5" height="14.0" rx="1.3" transform="rotate(0 774 36)"/><rect x="772.7" y="29.0" width="2.5" height="14.0" rx="1.3" transform="rotate(45 774 36)"/><rect x="772.7" y="29.0" width="2.5" height="14.0" rx="1.3" transform="rotate(90 774 36)"/><rect x="772.7" y="29.0" width="2.5" height="14.0" rx="1.3" transform="rotate(135 774 36)"/></g>
+<line x1="800" y1="0" x2="800" y2="220" stroke="#292b30"/>
+<g class="r" style="animation-delay:0.48s"><text x="820" y="40" class="m v" font-size="12" letter-spacing="2">0 5</text><text x="820" y="78" class="m t" font-size="12" font-weight="700" letter-spacing="1.2">FUNCTION OVER NOISE</text><text x="820" y="114" class="s mu" font-size="16"><tspan x="820" dy="0">Interfaces should</tspan><tspan x="820" dy="22">communicate before</tspan><tspan x="820" dy="22">they decorate.</tspan></text></g>
+<g class="spin" fill="#d7ff3f" style="animation-delay:2.00s"><rect x="972.7" y="29.0" width="2.5" height="14.0" rx="1.3" transform="rotate(0 974 36)"/><rect x="972.7" y="29.0" width="2.5" height="14.0" rx="1.3" transform="rotate(45 974 36)"/><rect x="972.7" y="29.0" width="2.5" height="14.0" rx="1.3" transform="rotate(90 974 36)"/><rect x="972.7" y="29.0" width="2.5" height="14.0" rx="1.3" transform="rotate(135 974 36)"/></g>
+</svg>

@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="430" viewBox="0 0 1000 430" role="img" aria-label="Data infrastructure pipeline">
+<title>Data infrastructure pipeline</title>
+<style>
+.m{font-family:'Geist Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace}.s{font-family:Geist, -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, 'Helvetica Neue', Arial, sans-serif}
+.t{fill:#f2f1ec}.mu{fill:#a8a8a2}.v{fill:#9875ff}.a{fill:#d7ff3f}.ol{fill:#101010}
+.fb{transform-box:fill-box;transform-origin:center}
+.r{animation:rise .9s cubic-bezier(.16,1,.3,1) both}
+.f{animation:fade 1.2s ease both}
+.blink{animation:blink 1.05s steps(1) infinite}
+.pulse{transform-box:fill-box;transform-origin:center;animation:pulse 2.2s ease-out infinite}
+.spin{transform-box:fill-box;transform-origin:center;animation:spin 14s linear infinite}
+.flow{stroke-dasharray:3 7;animation:flow .9s linear infinite}
+.draw{stroke-dasharray:1;animation:draw 1.6s cubic-bezier(.16,1,.3,1) both}
+.grow{transform-box:fill-box;transform-origin:left center;animation:grow 1.6s cubic-bezier(.16,1,.3,1) both}
+@keyframes rise{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+@keyframes blink{50%{opacity:0}}
+@keyframes pulse{0%{transform:scale(1);opacity:.9}100%{transform:scale(3.2);opacity:0}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes flow{to{stroke-dashoffset:-20}}
+@keyframes draw{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}
+@keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+
+.hot{animation:hot 5s ease infinite}
+@keyframes hot{0%,100%{opacity:.0}10%,30%{opacity:1}}
+
+</style>
+<rect width="1000" height="430" fill="#0c0d0f"/>
+<defs><pattern id="gd" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#1b1d22" stroke-width="1"/></pattern></defs><rect width="1000" height="430" fill="url(#gd)"/>
+<g class="r" style="animation-delay:0.00s"><rect x="24.0" y="40" width="172" height="96" fill="#121317" stroke="#292b30"/><text x="40.0" y="68" class="m v" font-size="12" letter-spacing="2">0 1</text><text x="40.0" y="100" class="m t" font-size="13" font-weight="700" letter-spacing="1"><tspan x="40.0" dy="0">RAW SOURCES</tspan></text></g>
+<rect x="24.0" y="40" width="172" height="3" fill="#9875ff" class="hot" style="animation-delay:0.0s"/>
+<line x1="200.0" y1="88.0" x2="215.0" y2="88.0" stroke="#9875ff" stroke-width="2" class="flow"/><path d="M209.0,83.0 L216.0,88.0 L209.0,93.0" fill="none" stroke="#9875ff" stroke-width="2"/>
+<g class="r" style="animation-delay:0.15s"><rect x="219.0" y="40" width="172" height="96" fill="#121317" stroke="#292b30"/><text x="235.0" y="68" class="m v" font-size="12" letter-spacing="2">0 2</text><text x="235.0" y="100" class="m t" font-size="13" font-weight="700" letter-spacing="1"><tspan x="235.0" dy="0">CLEANING</tspan></text></g>
+<rect x="219.0" y="40" width="172" height="3" fill="#9875ff" class="hot" style="animation-delay:0.8s"/>
+<line x1="395.0" y1="88.0" x2="410.0" y2="88.0" stroke="#9875ff" stroke-width="2" class="flow"/><path d="M404.0,83.0 L411.0,88.0 L404.0,93.0" fill="none" stroke="#9875ff" stroke-width="2"/>
+<g class="r" style="animation-delay:0.30s"><rect x="414.0" y="40" width="172" height="96" fill="#121317" stroke="#292b30"/><text x="430.0" y="68" class="m v" font-size="12" letter-spacing="2">0 3</text><text x="430.0" y="100" class="m t" font-size="13" font-weight="700" letter-spacing="1"><tspan x="430.0" dy="0">VALIDATION</tspan></text></g>
+<rect x="414.0" y="40" width="172" height="3" fill="#9875ff" class="hot" style="animation-delay:1.6s"/>
+<line x1="590.0" y1="88.0" x2="605.0" y2="88.0" stroke="#9875ff" stroke-width="2" class="flow"/><path d="M599.0,83.0 L606.0,88.0 L599.0,93.0" fill="none" stroke="#9875ff" stroke-width="2"/>
+<g class="r" style="animation-delay:0.45s"><rect x="609.0" y="40" width="172" height="96" fill="#121317" stroke="#292b30"/><text x="625.0" y="68" class="m v" font-size="12" letter-spacing="2">0 4</text><text x="625.0" y="100" class="m t" font-size="13" font-weight="700" letter-spacing="1"><tspan x="625.0" dy="0">NORMALIZATION</tspan></text></g>
+<rect x="609.0" y="40" width="172" height="3" fill="#9875ff" class="hot" style="animation-delay:2.4s"/>
+<line x1="785.0" y1="88.0" x2="800.0" y2="88.0" stroke="#9875ff" stroke-width="2" class="flow"/><path d="M794.0,83.0 L801.0,88.0 L794.0,93.0" fill="none" stroke="#9875ff" stroke-width="2"/>
+<g class="r" style="animation-delay:0.60s"><rect x="804.0" y="40" width="172" height="96" fill="#d7ff3f" stroke="#292b30"/><text x="820.0" y="68" class="m ol" font-size="12" letter-spacing="2">0 5</text><text x="820.0" y="100" class="m ol" font-size="13" font-weight="700" letter-spacing="1"><tspan x="820.0" dy="0">CENTRAL</tspan><tspan x="820.0" dy="18">STUDENT DATA</tspan></text></g>
+<rect x="804.0" y="40" width="172" height="3" fill="#9875ff" class="hot" style="animation-delay:3.2s"/>
+<path d="M890.0,136 C890.0,226 97.0,210 97.0,300" fill="none" stroke="#292b30" stroke-width="1.5"/>
+<path d="M890.0,136 C890.0,226 97.0,210 97.0,300" fill="none" stroke="#d7ff3f" stroke-width="1.5" class="flow" style="animation-duration:0.70s"/>
+<g class="r" style="animation-delay:0.80s"><rect x="24.0" y="300" width="146" height="40" fill="#121317" stroke="#292b30"/><text x="36.0" y="325" class="m a" font-size="12">+</text><text x="50.0" y="325" class="m t" font-size="11" letter-spacing="1">ATTENDANCE</text></g>
+<path d="M890.0,136 C890.0,226 258.2,210 258.2,300" fill="none" stroke="#292b30" stroke-width="1.5"/>
+<path d="M890.0,136 C890.0,226 258.2,210 258.2,300" fill="none" stroke="#d7ff3f" stroke-width="1.5" class="flow" style="animation-duration:0.82s"/>
+<g class="r" style="animation-delay:0.88s"><rect x="185.2" y="300" width="146" height="40" fill="#121317" stroke="#292b30"/><text x="197.2" y="325" class="m a" font-size="12">+</text><text x="211.2" y="325" class="m t" font-size="11" letter-spacing="1">GROUPING</text></g>
+<path d="M890.0,136 C890.0,226 419.4,210 419.4,300" fill="none" stroke="#292b30" stroke-width="1.5"/>
+<path d="M890.0,136 C890.0,226 419.4,210 419.4,300" fill="none" stroke="#d7ff3f" stroke-width="1.5" class="flow" style="animation-duration:0.94s"/>
+<g class="r" style="animation-delay:0.96s"><rect x="346.4" y="300" width="146" height="40" fill="#121317" stroke="#292b30"/><text x="358.4" y="325" class="m a" font-size="12">+</text><text x="372.4" y="325" class="m t" font-size="11" letter-spacing="1">AUTH</text></g>
+<path d="M890.0,136 C890.0,226 580.5999999999999,210 580.5999999999999,300" fill="none" stroke="#292b30" stroke-width="1.5"/>
+<path d="M890.0,136 C890.0,226 580.5999999999999,210 580.5999999999999,300" fill="none" stroke="#d7ff3f" stroke-width="1.5" class="flow" style="animation-duration:1.06s"/>
+<g class="r" style="animation-delay:1.04s"><rect x="507.59999999999997" y="300" width="146" height="40" fill="#121317" stroke="#292b30"/><text x="519.5999999999999" y="325" class="m a" font-size="12">+</text><text x="533.5999999999999" y="325" class="m t" font-size="11" letter-spacing="1">HELPDESK</text></g>
+<path d="M890.0,136 C890.0,226 741.8,210 741.8,300" fill="none" stroke="#292b30" stroke-width="1.5"/>
+<path d="M890.0,136 C890.0,226 741.8,210 741.8,300" fill="none" stroke="#d7ff3f" stroke-width="1.5" class="flow" style="animation-duration:1.18s"/>
+<g class="r" style="animation-delay:1.12s"><rect x="668.8" y="300" width="146" height="40" fill="#121317" stroke="#292b30"/><text x="680.8" y="325" class="m a" font-size="12">+</text><text x="694.8" y="325" class="m t" font-size="11" letter-spacing="1">STUDENT SERVICES</text></g>
+<path d="M890.0,136 C890.0,226 903.0,210 903.0,300" fill="none" stroke="#292b30" stroke-width="1.5"/>
+<path d="M890.0,136 C890.0,226 903.0,210 903.0,300" fill="none" stroke="#d7ff3f" stroke-width="1.5" class="flow" style="animation-duration:1.30s"/>
+<g class="r" style="animation-delay:1.20s"><rect x="830.0" y="300" width="146" height="40" fill="#121317" stroke="#292b30"/><text x="842.0" y="325" class="m a" font-size="12">+</text><text x="856.0" y="325" class="m t" font-size="11" letter-spacing="1">INTERNAL OPS</text></g>
+<circle cx="890.0" cy="136" r="5" class="a"/><circle cx="890.0" cy="136" r="5" class="a pulse"/>
+<line x1="24" y1="368" x2="976" y2="368" stroke="#292b30"/>
+<g class="r" style="animation-delay:1.20s"><text x="24" y="408" class="s t" font-size="30" font-weight="800" letter-spacing="-1">~8,000</text><text x="160" y="406" class="m mu" font-size="12" letter-spacing="2">STUDENT RECORDS · ONE SOURCE · MANY SYSTEMS</text></g>
+<g class="spin" fill="#d7ff3f" style="animation-delay:0.00s"><rect x="962.2" y="388.0" width="3.6" height="20.0" rx="1.8" transform="rotate(0 964 398)"/><rect x="962.2" y="388.0" width="3.6" height="20.0" rx="1.8" transform="rotate(45 964 398)"/><rect x="962.2" y="388.0" width="3.6" height="20.0" rx="1.8" transform="rotate(90 964 398)"/><rect x="962.2" y="388.0" width="3.6" height="20.0" rx="1.8" transform="rotate(135 964 398)"/></g>
+</svg>

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360" role="img" aria-label="Components and motion">
+<title>Components and motion</title>
+<style>
+.m{font-family:'Geist Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace}.s{font-family:Geist, -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, 'Helvetica Neue', Arial, sans-serif}
+.t{fill:#101010}.mu{fill:#595959}.v{fill:#8155ff}.a{fill:#5f7f00}.ol{fill:#101010}
+.fb{transform-box:fill-box;transform-origin:center}
+.r{animation:rise .9s cubic-bezier(.16,1,.3,1) both}
+.f{animation:fade 1.2s ease both}
+.blink{animation:blink 1.05s steps(1) infinite}
+.pulse{transform-box:fill-box;transform-origin:center;animation:pulse 2.2s ease-out infinite}
+.spin{transform-box:fill-box;transform-origin:center;animation:spin 14s linear infinite}
+.flow{stroke-dasharray:3 7;animation:flow .9s linear infinite}
+.draw{stroke-dasharray:1;animation:draw 1.6s cubic-bezier(.16,1,.3,1) both}
+.grow{transform-box:fill-box;transform-origin:left center;animation:grow 1.6s cubic-bezier(.16,1,.3,1) both}
+@keyframes rise{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+@keyframes blink{50%{opacity:0}}
+@keyframes pulse{0%{transform:scale(1);opacity:.9}100%{transform:scale(3.2);opacity:0}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes flow{to{stroke-dashoffset:-20}}
+@keyframes draw{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}
+@keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+.demo{animation:demo 2.4s cubic-bezier(.16,1,.3,1) infinite}@keyframes demo{0%{transform:translateY(14px);opacity:0}40%,80%{transform:none;opacity:1}100%{opacity:0}}
+</style>
+<rect width="1000" height="360" fill="#f4f3ef"/>
+<text x="24" y="36" class="m v" font-size="13" letter-spacing="1.5">/ DS-03  <tspan class="mu">COMPONENTS &amp; MOTION</tspan></text>
+<text x="24" y="76" class="m mu" font-size="10" letter-spacing="2">BUTTONS</text>
+<rect x="24" y="88" width="200" height="44" fill="#d7ff3f"/><text x="44" y="115" class="m ol" font-size="12" font-weight="700" letter-spacing="1.5">START A PROJECT ↗</text>
+<rect x="236" y="88" width="170" height="44" fill="none" stroke="#101010"/><text x="256" y="115" class="m t" font-size="12" letter-spacing="1.5">VIEW GITHUB ↗</text>
+<text x="420" y="115" class="m v" font-size="12" letter-spacing="1.5">EXPLORE WORK ↗</text>
+<text x="24" y="168" class="m mu" font-size="10" letter-spacing="2">CHIPS / STATUS</text>
+<rect x="24" y="180" width="65" height="24" fill="none" stroke="#d4d2cc"/><text x="33" y="196" class="m" font-size="11" fill="#101010" letter-spacing=".5">Next.js</text>
+<rect x="94.97" y="180" width="85" height="24" fill="none" stroke="#d4d2cc"/><text x="103.97" y="196" class="m" font-size="11" fill="#101010" letter-spacing=".5">TypeScript</text>
+<rect x="186.07" y="180" width="85" height="24" fill="none" stroke="#d4d2cc"/><text x="195.07" y="196" class="m" font-size="11" fill="#101010" letter-spacing=".5">PostgreSQL</text>
+<rect x="277.16999999999996" y="180" width="38" height="24" fill="none" stroke="#d4d2cc"/><text x="286.16999999999996" y="196" class="m" font-size="11" fill="#101010" letter-spacing=".5">k3s</text>
+<circle cx="341.29999999999995" cy="192" r="4" class="a"/><circle cx="341.29999999999995" cy="192" r="4" class="a pulse"/><text x="353.29999999999995" y="196" class="m t" font-size="11" letter-spacing="1.5">OPERATIONAL</text>
+<text x="24" y="248" class="m mu" font-size="10" letter-spacing="2">GLYPHS</text>
+<text x="24" y="284" class="m v" font-size="14" letter-spacing="2">/ 01</text><text x="84" y="284" class="m t" font-size="14" letter-spacing="2">0 1</text><text x="140" y="284" class="s a" font-size="22" font-weight="700">↗</text><text x="180" y="284" class="m mu" font-size="14">→ ↓ · ×</text>
+<g class="spin" fill="#5f7f00" style="animation-delay:0.00s"><rect x="274.2" y="269.0" width="3.6" height="20.0" rx="1.8" transform="rotate(0 276 279)"/><rect x="274.2" y="269.0" width="3.6" height="20.0" rx="1.8" transform="rotate(45 276 279)"/><rect x="274.2" y="269.0" width="3.6" height="20.0" rx="1.8" transform="rotate(90 276 279)"/><rect x="274.2" y="269.0" width="3.6" height="20.0" rx="1.8" transform="rotate(135 276 279)"/></g>
+<path d="M300,266V258H308 M352,258H360V266 M360,290V298H352 M308,298H300V290" fill="none" stroke="#595959" stroke-width="1"/>
+<text x="560" y="76" class="m mu" font-size="10" letter-spacing="2">MOTION</text>
+<rect class="demo" x="560" y="96" width="120" height="30" fill="#8155ff"/>
+<text x="560" y="150" class="m t" font-size="11">rise</text><text x="560" y="166" class="m mu" font-size="10">900ms · ease-out-expo</text>
+<line x1="700" y1="111" x2="820" y2="111" stroke="#8155ff" stroke-width="2" class="flow"/>
+<text x="700" y="150" class="m t" font-size="11">flow</text><text x="700" y="166" class="m mu" font-size="10">900ms · linear ∞</text>
+<circle cx="870" cy="111" r="5" class="a"/><circle cx="870" cy="111" r="5" class="a pulse"/>
+<text x="840" y="150" class="m t" font-size="11">pulse</text><text x="840" y="166" class="m mu" font-size="10">2.2s · ease-out ∞</text>
+<line x1="560" y1="196" x2="976" y2="196" stroke="#d4d2cc"/>
+<line x1="560" y1="196" x2="976" y2="196" stroke="#8155ff" stroke-width="2" pathLength="1" class="draw"/>
+<text x="560" y="218" class="m mu" font-size="10">draw · 1.6s · ease-out-expo</text>
+<rect x="560" y="240" width="416" height="6" fill="#d4d2cc"/><rect x="560" y="240" width="300" height="6" fill="#d7ff3f" class="grow"/>
+<text x="560" y="266" class="m mu" font-size="10">grow · 1.6s · ease-out-expo</text>
+<text x="560" y="318" class="m mu" font-size="10" letter-spacing="1.5">RADIUS 0 · BORDER 1PX · GRID 40PX · NO SHADOWS</text>
+</svg>

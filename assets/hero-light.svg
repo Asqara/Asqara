@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="440" viewBox="0 0 1000 440" role="img" aria-label="Alfath Asqar Tsani — Systems built for real use">
+<title>Alfath Asqar Tsani — Systems built for real use</title>
+<style>
+.m{font-family:'Geist Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace}.s{font-family:Geist, -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, 'Helvetica Neue', Arial, sans-serif}
+.t{fill:#101010}.mu{fill:#595959}.v{fill:#8155ff}.a{fill:#5f7f00}.ol{fill:#101010}
+.fb{transform-box:fill-box;transform-origin:center}
+.r{animation:rise .9s cubic-bezier(.16,1,.3,1) both}
+.f{animation:fade 1.2s ease both}
+.blink{animation:blink 1.05s steps(1) infinite}
+.pulse{transform-box:fill-box;transform-origin:center;animation:pulse 2.2s ease-out infinite}
+.spin{transform-box:fill-box;transform-origin:center;animation:spin 14s linear infinite}
+.flow{stroke-dasharray:3 7;animation:flow .9s linear infinite}
+.draw{stroke-dasharray:1;animation:draw 1.6s cubic-bezier(.16,1,.3,1) both}
+.grow{transform-box:fill-box;transform-origin:left center;animation:grow 1.6s cubic-bezier(.16,1,.3,1) both}
+@keyframes rise{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+@keyframes blink{50%{opacity:0}}
+@keyframes pulse{0%{transform:scale(1);opacity:.9}100%{transform:scale(3.2);opacity:0}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes flow{to{stroke-dashoffset:-20}}
+@keyframes draw{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}
+@keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+
+.scan{animation:scan 6s linear infinite}
+@keyframes scan{from{transform:translateY(-40px)}to{transform:translateY(440px)}}
+.glow{animation:glow 5s ease-in-out infinite}
+@keyframes glow{50%{opacity:.35}}
+.orb1{transform-box:view-box;transform-origin:830px 215px;animation:spin 18s linear infinite}
+.orb2{transform-box:view-box;transform-origin:830px 215px;animation:spin 11s linear infinite reverse}
+.orb3{transform-box:view-box;transform-origin:830px 215px;animation:spin 7s linear infinite}
+.cube{transform-box:view-box;transform-origin:830px 215px;animation:wob 9s ease-in-out infinite}
+@keyframes wob{50%{transform:rotate(18deg) scale(1.06)}}
+
+</style>
+<rect width="1000" height="440" fill="#f4f3ef"/>
+<defs><pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#e6e4de" stroke-width="1"/></pattern></defs><rect width="1000" height="440" fill="url(#g)"/>
+<defs><radialGradient id="rg" cx="830" cy="215" r="260" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#8155ff" stop-opacity=".30"/><stop offset="1" stop-color="#8155ff" stop-opacity="0"/></radialGradient><linearGradient id="sl" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#5f7f00" stop-opacity="0"/><stop offset="1" stop-color="#5f7f00" stop-opacity=".18"/></linearGradient></defs>
+<rect class="glow" width="1000" height="440" fill="url(#rg)"/>
+<g class="f"><text x="32" y="31" class="s t" font-size="16" font-weight="800" letter-spacing="1">ASQARA<tspan class="v">.TECH</tspan></text><text x="500" y="30" text-anchor="middle" class="m mu" font-size="11" letter-spacing="1.5">WORK / EXPERIENCE / SYSTEM / ABOUT / CONTACT</text><circle cx="790" cy="26" r="4" class="a"/><circle cx="790" cy="26" r="4" class="a pulse"/><text x="802" y="30" class="m t" font-size="11" letter-spacing="1.5">OPERATIONAL</text><text x="968" y="30" text-anchor="end" class="m mu" font-size="11">UTC+7</text></g>
+<line x1="0" y1="52" x2="1000" y2="52" stroke="#d4d2cc"/>
+<g class="orb1" fill="none" stroke="#8155ff" stroke-width="1.2" opacity=".9"><ellipse cx="830" cy="215" rx="120" ry="42"/><circle cx="950" cy="215" r="4" fill="#8155ff"/></g>
+<g class="orb2" fill="none" stroke="#d4d2cc" stroke-width="1.2"><ellipse cx="830" cy="215" rx="42" ry="120"/><circle cx="830" cy="95" r="3.5" fill="#5f7f00" stroke="none"/></g>
+<g class="orb3" fill="none" stroke="#595959" stroke-width=".8" stroke-dasharray="2 6"><circle cx="830" cy="215" r="150"/></g>
+<g class="cube"><path d="M830,169 L870,192 L870,238 L830,261 L790,238 L790,192 Z M830,169 L830,215 M830,215 L870,238 M830,215 L790,238" fill="#faf9f6" fill-opacity=".6" stroke="#101010" stroke-width="1.4"/><g class="spin" fill="#5f7f00" style="animation-delay:0.00s"><rect x="828.0" y="206.0" width="4.0" height="22.0" rx="2.0" transform="rotate(0 830 217)"/><rect x="828.0" y="206.0" width="4.0" height="22.0" rx="2.0" transform="rotate(45 830 217)"/><rect x="828.0" y="206.0" width="4.0" height="22.0" rx="2.0" transform="rotate(90 830 217)"/><rect x="828.0" y="206.0" width="4.0" height="22.0" rx="2.0" transform="rotate(135 830 217)"/></g></g>
+<text x="830" y="375" text-anchor="middle" class="m mu f" font-size="10" letter-spacing="3" style="animation-delay:1.40s">FULL-STACK DEVELOPER</text>
+<text x="32" y="104" class="m v r" font-size="13" letter-spacing="1.5" style="animation-delay:0.20s">/ 01  <tspan class="mu">SYSTEMS / SOFTWARE / INFRASTRUCTURE</tspan></text>
+<g class="r" style="animation-delay:0.35s"><text x="28" y="190" class="s t" font-size="78" font-weight="800" letter-spacing="-3" textLength="575" lengthAdjust="spacingAndGlyphs">SYSTEMS BUILT</text></g>
+<g class="r" style="animation-delay:0.55s"><text x="28" y="272" class="s t" font-size="78" font-weight="800" letter-spacing="-3" textLength="560" lengthAdjust="spacingAndGlyphs">FOR REAL USE<tspan class="a">.</tspan></text></g>
+<rect x="602" y="214" width="22" height="58" class="a blink"/>
+<text x="32" y="318" class="s mu r" font-size="17" style="animation-delay:0.80s">Alfath Asqar Tsani — software engineer building full-stack apps,</text>
+<text x="32" y="342" class="s mu r" font-size="17" style="animation-delay:0.90s">data infrastructure &amp; production systems at university scale.</text>
+<line x1="0" y1="384" x2="1000" y2="384" stroke="#d4d2cc"/>
+<g class="f" style="animation-delay:1.10s"><text x="32" y="415" class="m t" font-size="11" letter-spacing="2">FULL-STACK · DATA · PRODUCTION</text><text x="500" y="415" text-anchor="middle" class="m mu" font-size="11" letter-spacing="1.5">SCN_01 / 2026 SOFTWARE ENGINEERING / BOGOR</text><text x="968" y="415" text-anchor="end" class="m mu" font-size="11">06.5971° S  106.8060° E</text></g>
+<rect class="scan" x="0" y="0" width="1000" height="40" fill="url(#sl)"/>
+<path d="M8,74V60H22 M978,60H992V74 M992,362V376H978 M22,376H8V362" fill="none" stroke="#595959" stroke-width="1"/>
+</svg>

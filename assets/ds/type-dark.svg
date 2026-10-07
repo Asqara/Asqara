@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="467" viewBox="0 0 1000 467" role="img" aria-label="Typography scale">
+<title>Typography scale</title>
+<style>
+.m{font-family:'Geist Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace}.s{font-family:Geist, -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, 'Helvetica Neue', Arial, sans-serif}
+.t{fill:#f2f1ec}.mu{fill:#a8a8a2}.v{fill:#9875ff}.a{fill:#d7ff3f}.ol{fill:#101010}
+.fb{transform-box:fill-box;transform-origin:center}
+.r{animation:rise .9s cubic-bezier(.16,1,.3,1) both}
+.f{animation:fade 1.2s ease both}
+.blink{animation:blink 1.05s steps(1) infinite}
+.pulse{transform-box:fill-box;transform-origin:center;animation:pulse 2.2s ease-out infinite}
+.spin{transform-box:fill-box;transform-origin:center;animation:spin 14s linear infinite}
+.flow{stroke-dasharray:3 7;animation:flow .9s linear infinite}
+.draw{stroke-dasharray:1;animation:draw 1.6s cubic-bezier(.16,1,.3,1) both}
+.grow{transform-box:fill-box;transform-origin:left center;animation:grow 1.6s cubic-bezier(.16,1,.3,1) both}
+@keyframes rise{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+@keyframes blink{50%{opacity:0}}
+@keyframes pulse{0%{transform:scale(1);opacity:.9}100%{transform:scale(3.2);opacity:0}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes flow{to{stroke-dashoffset:-20}}
+@keyframes draw{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}
+@keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+
+</style>
+<rect width="1000" height="467" fill="#0c0d0f"/>
+<text x="24" y="36" class="m v" font-size="13" letter-spacing="1.5">/ DS-02  <tspan class="mu">TYPOGRAPHY</tspan></text>
+<line x1="24" y1="64" x2="976" y2="64" stroke="#292b30"/>
+<g class="r" style="animation-delay:0.00s"><text x="24" y="136" class="m mu" font-size="10" letter-spacing="2">DISPLAY</text><text x="120" y="136" class="s t" font-size="64" font-weight="800" letter-spacing="-2.5">SYSTEMS BUILT.</text><text x="976" y="156" text-anchor="end" class="m mu" font-size="10">Geist 800 · 64–96 · -0.04em · UPPERCASE</text></g>
+<line x1="24" y1="160" x2="976" y2="160" stroke="#292b30"/>
+<g class="r" style="animation-delay:0.08s"><text x="24" y="204" class="m mu" font-size="10" letter-spacing="2">H1</text><text x="120" y="204" class="s t" font-size="40" font-weight="800" letter-spacing="-1.4">Selected systems.</text><text x="976" y="224" text-anchor="end" class="m mu" font-size="10">Geist 800 · 40 · -0.035em</text></g>
+<line x1="24" y1="228" x2="976" y2="228" stroke="#292b30"/>
+<g class="r" style="animation-delay:0.16s"><text x="24" y="260" class="m mu" font-size="10" letter-spacing="2">H2</text><text x="120" y="260" class="s t" font-size="26" font-weight="700" letter-spacing="-0.6">Platform engineering</text><text x="976" y="280" text-anchor="end" class="m mu" font-size="10">Geist 700 · 26</text></g>
+<line x1="24" y1="284" x2="976" y2="284" stroke="#292b30"/>
+<g class="r" style="animation-delay:0.24s"><text x="24" y="316" class="m mu" font-size="10" letter-spacing="2">BODY</text><text x="120" y="316" class="s mu" font-size="16" font-weight="400" letter-spacing="0">Software engineer building full-stack apps and data infrastructure.</text><text x="976" y="336" text-anchor="end" class="m mu" font-size="10">Geist 400 · 16 / 1.5</text></g>
+<line x1="24" y1="340" x2="976" y2="340" stroke="#292b30"/>
+<g class="r" style="animation-delay:0.32s"><text x="24" y="372" class="m mu" font-size="10" letter-spacing="2">LABEL</text><text x="120" y="372" class="m v" font-size="13" font-weight="400" letter-spacing="1.5">/ 04  SELECTED WORK</text><text x="976" y="392" text-anchor="end" class="m mu" font-size="10">Geist Mono 400 · 11–13 · +0.12em · UPPERCASE</text></g>
+<line x1="24" y1="396" x2="976" y2="396" stroke="#292b30"/>
+<g class="r" style="animation-delay:0.40s"><text x="24" y="428" class="m mu" font-size="10" letter-spacing="2">DATA</text><text x="120" y="428" class="m t" font-size="12" font-weight="700" letter-spacing="1.5">~1,000 RPS · UTC+7 · SCN_01</text><text x="976" y="448" text-anchor="end" class="m mu" font-size="10">Geist Mono 700 · 11–12 · tabular</text></g>
+</svg>

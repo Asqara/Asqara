@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="196" viewBox="0 0 1000 196" role="img" aria-label="Key metrics">
+<title>Key metrics</title>
+<style>
+.m{font-family:'Geist Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace}.s{font-family:Geist, -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, 'Helvetica Neue', Arial, sans-serif}
+.t{fill:#f2f1ec}.mu{fill:#a8a8a2}.v{fill:#9875ff}.a{fill:#d7ff3f}.ol{fill:#101010}
+.fb{transform-box:fill-box;transform-origin:center}
+.r{animation:rise .9s cubic-bezier(.16,1,.3,1) both}
+.f{animation:fade 1.2s ease both}
+.blink{animation:blink 1.05s steps(1) infinite}
+.pulse{transform-box:fill-box;transform-origin:center;animation:pulse 2.2s ease-out infinite}
+.spin{transform-box:fill-box;transform-origin:center;animation:spin 14s linear infinite}
+.flow{stroke-dasharray:3 7;animation:flow .9s linear infinite}
+.draw{stroke-dasharray:1;animation:draw 1.6s cubic-bezier(.16,1,.3,1) both}
+.grow{transform-box:fill-box;transform-origin:left center;animation:grow 1.6s cubic-bezier(.16,1,.3,1) both}
+@keyframes rise{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+@keyframes blink{50%{opacity:0}}
+@keyframes pulse{0%{transform:scale(1);opacity:.9}100%{transform:scale(3.2);opacity:0}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes flow{to{stroke-dashoffset:-20}}
+@keyframes draw{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}
+@keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+
+</style>
+<rect width="1000" height="196" fill="#0c0d0f"/>
+<rect x=".5" y=".5" width="999" height="195" fill="#121317" stroke="#292b30"/>
+<g class="r" style="animation-delay:0.00s"><text x="24.0" y="34" class="m mu" font-size="11" letter-spacing="2">0 1</text><text x="24.0" y="92" class="s t" font-size="44" font-weight="800" letter-spacing="-1.5">~8,000</text><text x="24.0" y="120" class="m t" font-size="11" letter-spacing="1.5">STUDENT RECORDS</text><text x="24.0" y="138" class="s mu" font-size="13">normalized across services</text></g>
+<path transform="translate(100.0,22)" d="M0,26 L18,22 L36,24 L54,14 L72,18 L90,8 L108,12 L126,2" fill="none" stroke="#9875ff" stroke-width="1.6" pathLength="1" class="draw" style="animation-delay:0.40s"/>
+<circle cx="226.0" cy="24" r="3" class="a"/><circle cx="226.0" cy="24" r="3" class="a pulse" style="animation-delay:0.00s"/>
+<rect x="24.0" y="160" width="202.0" height="6" fill="#292b30"/>
+<rect x="24.0" y="160" width="186" height="6" fill="#9875ff" class="grow" style="animation-delay:0.50s"/>
+<line x1="250.0" y1="0" x2="250.0" y2="196" stroke="#292b30"/>
+<g class="r" style="animation-delay:0.15s"><text x="274.0" y="34" class="m mu" font-size="11" letter-spacing="2">0 2</text><text x="274.0" y="92" class="s t" font-size="44" font-weight="800" letter-spacing="-1.5">~1,000<tspan class="v" font-size="18" letter-spacing="0" dx="6">RPS</tspan></text><text x="274.0" y="120" class="m t" font-size="11" letter-spacing="1.5">PEAK PRODUCTION LOAD</text><text x="274.0" y="138" class="s mu" font-size="13">on Kubernetes / k3s</text></g>
+<path transform="translate(350.0,22)" d="M0,26 L18,22 L36,24 L54,14 L72,18 L90,8 L108,12 L126,2" fill="none" stroke="#9875ff" stroke-width="1.6" pathLength="1" class="draw" style="animation-delay:0.55s"/>
+<circle cx="476.0" cy="24" r="3" class="a"/><circle cx="476.0" cy="24" r="3" class="a pulse" style="animation-delay:0.15s"/>
+<rect x="274.0" y="160" width="202.0" height="6" fill="#292b30"/>
+<rect x="274.0" y="160" width="158" height="6" fill="#d7ff3f" class="grow" style="animation-delay:0.65s"/>
+<line x1="500.0" y1="0" x2="500.0" y2="196" stroke="#292b30"/>
+<g class="r" style="animation-delay:0.30s"><text x="524.0" y="34" class="m mu" font-size="11" letter-spacing="2">0 3</text><text x="524.0" y="92" class="s t" font-size="44" font-weight="800" letter-spacing="-1.5">Rp600M+</text><text x="524.0" y="120" class="m t" font-size="11" letter-spacing="1.5">TRANSACTION VALUE</text><text x="524.0" y="138" class="s mu" font-size="13">handled in production</text></g>
+<path transform="translate(600.0,22)" d="M0,26 L18,22 L36,24 L54,14 L72,18 L90,8 L108,12 L126,2" fill="none" stroke="#9875ff" stroke-width="1.6" pathLength="1" class="draw" style="animation-delay:0.70s"/>
+<circle cx="726.0" cy="24" r="3" class="a"/><circle cx="726.0" cy="24" r="3" class="a pulse" style="animation-delay:0.30s"/>
+<rect x="524.0" y="160" width="202.0" height="6" fill="#292b30"/>
+<rect x="524.0" y="160" width="174" height="6" fill="#9875ff" class="grow" style="animation-delay:0.80s"/>
+<line x1="750.0" y1="0" x2="750.0" y2="196" stroke="#292b30"/>
+<g class="r" style="animation-delay:0.45s"><text x="774.0" y="34" class="m mu" font-size="11" letter-spacing="2">0 4</text><text x="774.0" y="92" class="s t" font-size="44" font-weight="800" letter-spacing="-1.5">~60%</text><text x="774.0" y="120" class="m t" font-size="11" letter-spacing="1.5">FASTER PAGE LOAD</text><text x="774.0" y="138" class="s mu" font-size="13">Next.js optimization</text></g>
+<path transform="translate(850.0,22)" d="M0,26 L18,22 L36,24 L54,14 L72,18 L90,8 L108,12 L126,2" fill="none" stroke="#9875ff" stroke-width="1.6" pathLength="1" class="draw" style="animation-delay:0.85s"/>
+<circle cx="976.0" cy="24" r="3" class="a"/><circle cx="976.0" cy="24" r="3" class="a pulse" style="animation-delay:0.45s"/>
+<rect x="774.0" y="160" width="202.0" height="6" fill="#292b30"/>
+<rect x="774.0" y="160" width="121" height="6" fill="#d7ff3f" class="grow" style="animation-delay:0.95s"/>
+</svg>
