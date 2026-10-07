@@ -1,25 +1,34 @@
 <picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 1100px)" srcset="assets/hero-dark-mobile.svg">
-  <source media="(max-width: 1100px)" srcset="assets/hero-light-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <img src="assets/hero-light.svg" width="100%" alt="Alfath Asqar Tsani — Software Engineering, Platform Systems, Data Infrastructure">
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark) and (max-width: 1100px)" srcset="assets/hero-dark-mobile.svg">
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 1100px)" srcset="assets/hero-light-mobile.svg">
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/hero-light.svg">
+  <source media="(prefers-color-scheme: dark) and (max-width: 1100px)" srcset="assets/hero-dark-mobile.gif">
+  <source media="(max-width: 1100px)" srcset="assets/hero-light-mobile.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.gif">
+  <img src="assets/hero-light.gif" width="100%" alt="Alfath Asqar Tsani - Software Engineering, Platform Systems, Data Infrastructure">
 </picture>
 
 <p>
   <a href="https://github.com/Asqara">GitHub</a> &nbsp; / &nbsp;
   <a href="https://www.linkedin.com/in/asqaraa">LinkedIn</a> &nbsp; / &nbsp;
-  <a href="mailto:Alfath.asqartsani@gmail.com">Email</a>
+  <a href="mailto:Alfath.asqartsani@gmail.com">Email</a> &nbsp; / &nbsp;
+  <a href="README-static.md">View without animation</a>
 </p>
 
 # Software for real operations.
 
-I'm **Alfath**, a Computer Science student at **IPB University**, based in Bogor, Indonesia. I build and maintain software for university operations, student services, and commerce—with work spanning applications, databases, service integration, and production infrastructure.
+I'm **Alfath**, a Computer Science student at **IPB University**, based in Bogor, Indonesia. I build and maintain software for university operations, student services, and commerce-with work spanning applications, databases, service integration, and production infrastructure.
 
 <picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 1100px)" srcset="assets/impact-dark-mobile.svg">
-  <source media="(max-width: 1100px)" srcset="assets/impact-light-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/impact-dark.svg">
-  <img src="assets/impact-light.svg" width="100%" alt="Approximately 8,000 student records prepared and normalized; approximately 1,000 requests per second at peak on production infrastructure; more than Rp600 million in cumulative store transaction value.">
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark) and (max-width: 1100px)" srcset="assets/impact-dark-mobile.svg">
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 1100px)" srcset="assets/impact-light-mobile.svg">
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/impact-dark.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/impact-light.svg">
+  <source media="(prefers-color-scheme: dark) and (max-width: 1100px)" srcset="assets/impact-dark-mobile.gif">
+  <source media="(max-width: 1100px)" srcset="assets/impact-light-mobile.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/impact-dark.gif">
+  <img src="assets/impact-light.gif" width="100%" alt="Approximately 8,000 student records prepared and normalized; approximately 1,000 requests per second at peak on production infrastructure; more than Rp600 million in cumulative store transaction value.">
 </picture>
 
 [Selected systems](#selected-systems) &nbsp; / &nbsp; [Engineering](#engineering) &nbsp; / &nbsp; [Experience](#experience)
@@ -75,7 +84,7 @@ A public-facing platform for event information, audience access, and official Ag
 My work extends from the application layer into database design, data preparation, deployment, and maintenance. I work on the operational foundations that let connected services share data and support production usage.
 
 <details>
-<summary><strong>Production infrastructure</strong> — deployment, recovery, and operations</summary>
+<summary><strong>Production infrastructure</strong> - deployment, recovery, and operations</summary>
 
 <br>
 
@@ -89,7 +98,7 @@ Production infrastructure has handled peak loads of approximately **1,000 reques
 </details>
 
 <details>
-<summary><strong>Student data infrastructure</strong> — from raw sources to shared services</summary>
+<summary><strong>Student data infrastructure</strong> - from raw sources to shared services</summary>
 
 <br>
 
@@ -112,9 +121,9 @@ The resulting data supports **digital attendance, participant grouping, authenti
 
 ## Experience
 
-- **2025 — Present · Information Systems Coordinator**  
+- **2025 - Present · Information Systems Coordinator**  
   OMB IPB 63 × Agrisymphony 2026
-- **2025 — Present · Web Developer**  
+- **2025 - Present · Web Developer**  
   Code Panda
 - **2025 · Web Developer**  
   Agrisymphony
@@ -124,7 +133,7 @@ The resulting data supports **digital attendance, participant grouping, authenti
   Balai Penyuluhan Pertanian Bekri
 
 <details>
-<summary><strong>More engineering work</strong> — applications, automation, and research</summary>
+<summary><strong>More engineering work</strong> - applications, automation, and research</summary>
 
 <br>
 

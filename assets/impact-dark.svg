@@ -2,12 +2,15 @@
 <text x="32" y="70" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="700" letter-spacing="-1.5" fill="#D3EA97">~8,000</text>
 <text x="32" y="109" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#EEF1E7">Student records</text>
 <text x="32" y="140" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#A8B7AE">Prepared &amp; normalized</text>
+<path d="M32 83h108" stroke="#D3EA97" stroke-width="3" opacity="0.350"/>
 <path d="M400 28V148" stroke="#3A4A42"/>
 <text x="432" y="70" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="700" letter-spacing="-1.5" fill="#D3EA97">~1,000 RPS</text>
 <text x="432" y="109" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#EEF1E7">Production infrastructure</text>
 <text x="432" y="140" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#A8B7AE">Approximate peak load</text>
+<path d="M432 83h108" stroke="#D3EA97" stroke-width="3" opacity="0.350"/>
 <path d="M800 28V148" stroke="#3A4A42"/>
 <text x="832" y="70" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="700" letter-spacing="-1.5" fill="#D3EA97">Rp600M+</text>
 <text x="832" y="109" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#EEF1E7">Store transactions</text>
 <text x="832" y="140" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#A8B7AE">Cumulative value handled</text>
+<path d="M832 83h108" stroke="#D3EA97" stroke-width="3" opacity="0.350"/>
 </svg>
